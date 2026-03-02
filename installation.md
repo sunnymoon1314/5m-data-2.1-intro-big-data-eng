@@ -71,6 +71,7 @@ For lesson 2.2, you will need to setup user accounts on Redis and Google Cloud P
 ## Preparation for Lesson 2.4
 
 - `bde` environment
+- Please get `Google Chrome` install if you do not use one currently.
 
 For lesson 2.4 we need to setup a Github token.
 
@@ -82,7 +83,6 @@ For lesson 2.4 we need to setup a Github token.
 
 ### dbt Requirements
 - `elt` environment
-- Github token prepared in lesson 2.3
 - GCP setup prepared in lesson 2.2
 
 
